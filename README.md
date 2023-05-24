@@ -3,7 +3,7 @@
 
 ✨ Good to have you here ✨ 
 
-- 🔭 I’m currently building my Machine Learning expertise 
+- 🔭 I’m currently building my Machine Learning and Software Engineering expertise 
 - 🌱 I also love competing on [kaggle](https://www.kaggle.com/shamimahossain) competitions 
 - 👯 I’m looking to collaborate on open source projects that leverage ML, data science to solve problems
 - 📚 I frequently write about my experiences here [personal blog](https://github.com/silvererudite)
