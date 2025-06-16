@@ -3,11 +3,11 @@
 
 ✨ Good to have you here ✨ 
 
-- 🔭 I’m currently building my Machine Learning and Software Engineering expertise 
-- 🌱 I also love competing on [kaggle](https://www.kaggle.com/shamimahossain) competitions 
-- 👯 I’m looking to collaborate on open source projects that leverage ML, data science to solve problems
-- 📚 I frequently write about my experiences here [personal blog](https://github.com/silvererudite)
-- These days I mostly solve problems with python and leveling up my backend skills with Java.
+I’m currently building my Machine Learning and Software Engineering expertise at Bkash Limited. 
+- I work with NLP and vision systems.
+- These days I'm heavily investing time in learning and implementing some amazing research on LLMs at work.
+- I love reading and implementing ideas from research papers and writing on Twitter. 
+
 
 [![Shamima's github stats](https://github-readme-stats.vercel.app/api?username=silvererudite&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
